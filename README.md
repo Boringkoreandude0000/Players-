@@ -1,4 +1,83 @@
 # Players-
+
+RRDB
+US
+Common Military
+Common Military (United States)
+Last Updated: June 8, 2023, 16:55 pm UTC
+ 
+
+Frequencies
+
+Grouped
+  
+All
+  
+New/Updated
+ 
+Show Repeater Inputs
+Common
+Aeronautical  
+Frequency	License	Type	Tone	Alpha Tag	Description	Mode	Tag
+126.200		BM	CSQ	MilTwrCommon	Military Tower	AM	Aircraft
+242.400		BM		ArmyHeli2424	Army Helo Common (Two Four-Two Four)	AM	Military
+242.500		BM		ArmyHeli2425	Army Helo Common	AM	Military
+243.000		BM		MilAir Emerg	Emergency/Guard UHF	AM	Aircraft
+246.800		M	CSQ	USAF Cheerleader	USAF Common "Cheerleader"	AM	Military
+252.100		BM		AFRS CP Comm	Air Force Reserves (AFRS) Command Post Common	AM	Military
+252.525		BM		USAFCommT25	USAF Common [Triple 25]	AM	Military
+255.400		BM		Mil Flt Svc	Military Flight Service Station	AM	Aircraft
+257.800		BM		MilTwrComCiv	Military Tower Common at Civilian Airports	AM	Aircraft
+282.800		M		Military SAR	Military Search and Rescue	AM	Military
+299.500		BM		USAF Comm	USAF Common [Cheap Suit]	AM	Military
+300.600		BM		USAFComm	USAF Common [Thirty O Six]	AM	Military
+300.650		BM		USAFCommAA	USAF Common Air to Air	AM	Military
+303.000		BM		USAFComm3030	USAF Common (Thirty-Thirty) [Winchester]	AM	Military
+303.050		BM		USAFComm	USAF Common Air to Air	AM	Military
+311.000		BM		ACC CP Pri	Air Combat Command (ACC) Command Post Primary	AM	Military
+319.400		BM		AMC CP	Air Mobility Command (AMC) Command Post	AM	Military
+321.000		BM		ACC CP Sec	Air Combat Command (ACC) Command Post Secondary	AM	Military
+323.800		M		Airborne CP	Airborne Command Post	AM	Military
+333.000		BM		USAFComm333	USAF Common [Triple Three]	AM	Military
+333.300		BM		USAFComm	USAF Common [Quad Three}	AM	Military
+333.550		BM		USAFCommFH	USAF Common [Full House]	AM	Military
+335.550		BM		USAFCommFH2	USAF Common {Full House II]	AM	Military
+341.750		BM		USAF A/A	USAF Air to Air	AM	Military
+345.600		BM		USAFComm	USAF Common [Straight]	AM	Military
+349.400		BM		AMC CP	Air Mobility Command CP Common	AM	Military
+351.000		BM		USAFComm	USAF Common [Haircut]	AM	Military
+357.000		BM		USAFComm	USAF Common [Magnum]	AM	Military
+364.200		BM		NORAD AICC	NORAD Air Intercept Control Common	AM	Military
+383.550		M		TACAMO Data	Take Charge and Move Out (TACAMO) Data	Telm	Data
+384.500		BM		USAFComm	USAF Common [Pistol]	AM	Military
+384.550		BM		USAFComm	USAF Common [Pistol 5]	AM	Military
+Intra-Squad Radios (ISR)  
+For Federal/Military Users, small 0.5W FM radios.
+
+Frequency	License	Type	Tone	Alpha Tag	Description	Mode	Tag
+396.875		M		ISR 01	ISR Channel 1	FM	Military
+397.125		M		ISR 02	ISR Channel 2	FM	Military
+397.175		M		ISR 03	ISR Channel 3	FM	Military
+397.375		M		ISR 04	ISR Channel 4	FM	Military
+397.425		M		ISR 05	ISR Channel 5	FM	Military
+397.475		M		ISR 06	ISR Channel 6	FM	Military
+397.550		M		ISR 07	ISR Channel 7	FM	Military
+397.950		M		ISR 08	ISR Channel 8	FM	Military
+398.050		M		ISR 09	ISR Channel 9	FM	Military
+399.425		M		ISR 10	ISR Channel 10 (CAP Prohibited from using)	FM	Military
+399.475		M		ISR 11	ISR Channel 11 (CAP Prohibited from using)	FM	Military
+399.725		M		ISR 12	ISR Channel 12	FM	Military
+399.925		M		ISR 13	ISR Channel 13 (Revoked now DoD Satellite Band)	FM	Military
+399.975		M		ISR 14	ISR Channel 14 (Revoked now DoD Satellite Band)	FM	Military
+Search and Rescue  
+Frequency	License	Type	Tone	Alpha Tag	Description	Mode	Tag
+40.500		M		Mil SAR 40.5	Military Search and Rescue	FM	Military
+138.450		M		AF SAR 138.4	Air Force Search and Rescue	AM	Military
+138.750		M		AF SAR 138.7	Air Force Search and Rescue	AM	Military
+Rev:
+2.1.8844
+
+global college radio stations frequencies channels lake forest high school radio stations call signs channels frequencies
 Players apps
 houston epic systems global radio stations frequencies channels etc call signs hospitals global 
 
