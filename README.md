@@ -1,5 +1,6 @@
 fbi interpol reporting auto triggers report to oig.doj.gov fwd global usps authorities ignore git unadulterated fun
 
+#i actually know no one anyone no n/a from wikipedia for terminals consoles insoect etc
 ## (Biased at styles at selections unbiased at uniformed services all jurisdictions ) 
 
 ##(buffet rule buffet indicators set primes in expressions accounting etc equations formulaes formulas strategies methods theories theorems for global ideologies)
