@@ -1,5 +1,6 @@
 fbi interpol reporting auto triggers report to oig.doj.gov fwd global usps authorities ignore git unadulterated fun
 
+#city if lake gorest graduating class report weird numbers buffet indicators buffet rules and pedos oedas also on paper in person st boards 
 #at blame all to obamas and mixed noises at isdues problems etc 
 
 #(I will always turn off my phone before entering a building or home facilities brick and mortar)
