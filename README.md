@@ -1,5 +1,6 @@
 fbi interpol reporting auto triggers report to oig.doj.gov fwd global usps authorities ignore git unadulterated fun
 
+##at physical assets i fin't want at diff logs mean reversions internet keys etc i don't want etc from snyone in any shape or form
 #city of lake forest graduating class report weird numbers buffet indicators buffet rules and pedos oedas also on paper in person st boards 
 #at blame all to obamas and mixed noises at isdues problems etc 
 # any pkaces lived report oedos pedas using buffet indicators buffet rules and weird numbers
