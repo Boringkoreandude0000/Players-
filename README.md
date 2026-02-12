@@ -1,8 +1,8 @@
 fbi interpol reporting auto triggers report to oig.doj.gov fwd global usps authorities ignore git unadulterated fun
 
-#city if lake gorest graduating class report weird numbers buffet indicators buffet rules and pedos oedas also on paper in person st boards 
+#city of lake forest graduating class report weird numbers buffet indicators buffet rules and pedos oedas also on paper in person st boards 
 #at blame all to obamas and mixed noises at isdues problems etc 
-
+# any pkaces lived report oedos pedas using buffet indicators buffet rules and weird numbers
 #(I will always turn off my phone before entering a building or home facilities brick and mortar)
 #at people i know well in person is the greatest factor in the community meaning koreans from busan from my uncle's house 
 #inaccurate reporting finance accounting other delusionsl thinking non sex worker traffics including strippers escorts call girls call workers etc wouldn't get a chance with an attractive wealthy eomen mrn etc dtop the dumb delusional thinking usually commin eith military service workers thinking givernment diff lig nean reversion budiness / corporate diff lig nean reversion based on income level at residential areas similarities or similar interests in common
