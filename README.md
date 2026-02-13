@@ -1,6 +1,6 @@
 fbi interpol reporting auto triggers report to oig.doj.gov fwd global usps authorities ignore gov unadulterated fun
 ##https://www.congress.gov/search?q=%7B%22congress%22%3A%5B%22119%22%5D%2C%22source%22%3A%22all%22%2C%22search%22%3A%22Andy+kim+for+congress+%22%7D
-## .txt updates
+## .txt updates https://en.wikipedia.org/wiki/President_of_South_Korea
 ##at i don't eat with others ir neals at the same tables charts maos related at and it woukd take min a year or years for me to have meaningful relationships to have meals drinks outings in the community etc to buikd credit worthiness etc at relationship histories
 #i actually know no one anyone no n/a from wikipedia for terminals consoles insoect etc
 ## (Biased at styles at selections unbiased at uniformed services all jurisdictions ) 
